@@ -1,6 +1,6 @@
 # machine_learning
 学习于：https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms  
-持续更新中。。。。
+已经完成了所有的学习，同时整理完毕，希望对你我都有所得！！！
 1. <font color='blue'>kNN</font>
   * 101 读取数据和简单的数据探索
   * 102 KNN算法
@@ -41,8 +41,12 @@
   * 801 支持向量机SVM
   * 802 SVM中使用多项式特征和核函数
   * 803 RBF核函数在scikit-learn中的实现
-9.决策树
+9. 决策树
   * 901 决策树与信息熵、基尼系数
   * 902 CART和决策树的超参数
   * 903 决策树解决回归问题以及缺陷分析
   * 904 决策树的学习曲线和复杂度曲线
+10. 随机森林
+  * 1001 集成学习
+  * 1002 随机森林、Boosting、Stacking
+  
